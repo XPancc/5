@@ -1,22 +1,34 @@
-print "Hello, World!";
+print 
+"Hello, World!";
 
 x="a"
 y="b"
 # 换行输出
-print x;
-print y;
+print 
+x;
+print 
+y;
 
-print '---------'
+print 
+'---------'
 # 不换行输出
-print x,
-print y,
+print 
+x,
+print 
+y,;
 
 # 不换行输出
-print x,y
+print 
+x,y;
 
 # 测试
-print "test";
-print "test1";
-print "test2";
-print "test3";
-print "test4";
+print 
+"test";
+print 
+"test1";
+print 
+"test2";
+print 
+"test3";
+print 
+"test4";
