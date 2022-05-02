@@ -36,3 +36,5 @@ print
 "test5";
 print 
 "test6";
+print 
+"test7";
